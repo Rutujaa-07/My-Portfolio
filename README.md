@@ -47,6 +47,7 @@ I enjoy designing cloud infrastructure, automating deployments, and working on r
 - GitHub: https://github.com/Rutujaa-07
 - LinkedIn: www.linkedin.com/in/rutuja-gophane
 - Portfolio: (https://rutujaa-07.github.io/My-Portfolio/)
+- Hashnode: (https://hashnode.com/@rutujaa07)
 
 ---
 
